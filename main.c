@@ -30,6 +30,7 @@ int main(void){
 
     goto EtiquetaGoto;
     goto EtiquetaCateo;
+    printf("\nAportación del Developer 1");
     goto Funcion1;
     goto EstructurasStr;
     goto EtiquetaDesplazamiento;
