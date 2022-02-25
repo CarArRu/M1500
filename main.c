@@ -33,8 +33,10 @@ int main(void){
     goto Funcion1;
     goto EstructurasStr;
     goto EtiquetaDesplazamiento;
+    printf("\nAportación 1 del Developer 2");
 
     printf("\nValor de la variable de Otro.c: %d", VariableOtroC);
+    printf("\nAportación 2 del Developer 2");
     FuncStaticVar();
     /// Static
     printf("\nContador usando static en una variable\n");
