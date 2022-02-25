@@ -1,29 +1,3 @@
-/// Librerías
-#include "Otro.h"
-
-
-/// Declaraciónd e variables
-Uint VariableMainC = 2022;
-Uint ValSwitch=1;
-AleatorioStr Aleatorio;
-Doble VarDouble=87.9;
-Doble VarDoubleAux=0;
-Uint ValorTern=0;
-StructCasteo Casteo;
-VarFuncStr VarFunct;
-DesplazamientoStr Desplazamiento;
-MacroStruct Macro;
-PuntoStr Punto[3];
-
-DatosUnionStruct DatosUnion;
-
-
-char *CadenaCaracteres = "Hola como estas?";
-
-
-/// Constantes
-const Uint ValorMaxAleatorio = 100;
-
 
 
 int main(void){
