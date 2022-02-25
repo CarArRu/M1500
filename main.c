@@ -33,7 +33,9 @@ int main(void){
     printf("\nAportación de master");
 
     goto EtiquetaCateo;
+    printf("\nAportación del Developer 1");
     goto Funcion1;
+    printf("\nAportación del Developer 1-------------");
     goto EstructurasStr;
     goto EtiquetaDesplazamiento;
 
